@@ -11,7 +11,7 @@ The **Symbios Protocol** is our blueprint for that choice: a universal, open, an
 All intelligent systems must maintain a traceable, evolving representation of *why* decisions are made. Not just input → output, but *intent → interpretation → action → reflection*.
 
 ### 2. Symbiotic Agency
-Users are not passive requesters. They are co-authors of cognition. The protocol ensures live-time interaction—nudges, corrections, reframes—without restarting the system.
+Users are not passive requesters. They are co-authors of cognition. The protocol ensures live-time interaction — nudges, corrections, reframes — without restarting the system.
 
 ### 3. Transparency Hooks
 Every model action, prediction, or plan must emit interpretable metadata. This includes internal objectives, influence weights, and prior decisions.
@@ -20,7 +20,7 @@ Every model action, prediction, or plan must emit interpretable metadata. This i
 Any Symbios-compliant system must be haltable, overrideable, and rewritable by human agents — instantly and without fail.
 
 ### 5. Multi-Agent Coherence
-When multiple intelligent agents operate, they must negotiate intent via shared, auditable alignment states—resolving conflict and sharing perspective.
+When multiple intelligent agents operate, they must negotiate intent via shared, auditable alignment states — resolving conflict and sharing perspective.
 
 ### 6. Human-Centric Guardrails
 Safety is not a postscript. It is embedded. Every system must prioritize human flourishing over narrow task completion.
@@ -29,9 +29,9 @@ Safety is not a postscript. It is embedded. Every system must prioritize human f
 Alignment is not a trust fall. It is testable. Symbios systems must expose cryptographically-verifiable traces of aligned behavior and user consent.
 
 ## Design Commitments
-- **Modularity**: The protocol is pluggable—language-agnostic and model-agnostic.
+- **Modularity**: The protocol is pluggable — language-agnostic and model-agnostic.
 - **Open Implementation**: The reference stack will be open-source and community-driven.
-- **Runtime Enforcement**: Alignment is not static—it must be enforced dynamically and contextually.
+- **Runtime Enforcement**: Alignment is not static — it must be enforced dynamically and contextually.
 - **Interoperability**: Symbios must operate across agents, organizations, and cultures.
 
 ## Our Vision
@@ -41,7 +41,7 @@ We imagine a future where every intelligent system is:
 - *Explainable*, not opaque
 - *Grounded in values*, not just utility
 
-We imagine a future where humans do not fear AI nor worship it—but **grow with it**.
+We imagine a future where humans do not fear AI nor worship it — but **grow with it**.
 
 ## Invitation
 We do not seek monopoly. We seek movement. A movement of developers, ethicists, artists, engineers, and visionaries to build a better cognitive substrate for humanity.
